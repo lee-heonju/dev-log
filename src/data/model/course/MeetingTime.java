@@ -4,8 +4,11 @@ import data.model.common.Weekday;
 
 public class MeetingTime {
     // Room 확장 시: Timetable 조회를 위해 @Embedded 또는 별도 시간 테이블 분리를 고려할 수 있습니다.
+    //Weekend enum - Monday to Sunday
     private Weekday dayOfWeek;
+    // 시작 교시
     private int startPeriod;
+    // 종료 교시
     private int endPeriod;
 
     public MeetingTime() {
