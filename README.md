@@ -16,5 +16,6 @@
 - `List` 필드는 `TypeConverter` 또는 관계 테이블 분리 고려
 - `Course`와 `LectureSection`, `Timetable`과 `LectureSection`, `RecommendationResult`와 `ScoreDetail`는 관계형 분리 추천
 
-  ３／２０ － 모든 패키지 안에 있는 클래스 주석 코멘트 업데이트 완료、 이후 공부 중 
+ 
+ ＃３／２０ － 모든 패키지 안에 있는 클래스 주석 코멘트 업데이트 완료、 이후 공부 중 
 
